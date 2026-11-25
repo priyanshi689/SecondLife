@@ -1,0 +1,201 @@
+item,category,condition,age_years,original_price,sold_price,price_retention
+Python Programming Book,Books,Like New,6.4,1395,492,35.27
+Python Programming Book,Books,Like New,3.7,387,191,49.35
+Novel,Books,Like New,5.7,1069,424,39.66
+DSA Book,Books,Like New,1.9,576,382,66.32
+DSA Book,Books,Good,4.3,774,302,39.02
+DSA Book,Books,Poor,0.6,489,134,27.4
+DSA Book,Books,Good,1.8,1131,612,54.11
+Engineering Textbook,Books,Like New,4.9,466,184,39.48
+Engineering Textbook,Books,Fair,7.7,1076,176,16.36
+DSA Book,Books,Good,5.5,808,276,34.16
+Python Programming Book,Books,Good,7.3,1325,330,24.91
+DSA Book,Books,Like New,4.5,1002,478,47.7
+Novel,Books,Poor,7.5,569,66,11.6
+Python Programming Book,Books,Like New,0.9,1316,1059,80.47
+Engineering Textbook,Books,Good,3.2,1376,624,45.35
+Engineering Textbook,Books,Good,2.4,1364,660,48.39
+Engineering Textbook,Books,Poor,0.8,1452,395,27.2
+Novel,Books,Like New,0.3,691,584,84.52
+Engineering Textbook,Books,Poor,4.9,1317,199,15.11
+Python Programming Book,Books,Good,6.8,1356,341,25.15
+Python Programming Book,Books,Fair,5.4,983,245,24.92
+Python Programming Book,Books,Good,4.6,942,361,38.32
+DSA Book,Books,Good,2.0,1094,581,53.11
+Python Programming Book,Books,Good,1.1,1163,713,61.31
+Novel,Books,Fair,4.6,784,206,26.28
+Engineering Textbook,Books,Good,4.4,824,290,35.19
+Python Programming Book,Books,Poor,5.6,981,150,15.29
+Engineering Textbook,Books,Good,1.0,489,279,57.06
+Engineering Textbook,Books,Like New,5.3,1272,545,42.85
+Python Programming Book,Books,Good,1.5,617,335,54.29
+Python Programming Book,Books,Good,2.3,1436,678,47.21
+DSA Book,Books,Good,7.7,1436,323,22.49
+Novel,Books,Fair,0.5,941,450,47.82
+Python Programming Book,Books,Poor,2.4,1453,334,22.99
+DSA Book,Books,Good,7.9,1135,245,21.59
+Novel,Books,Fair,2.1,579,223,38.51
+DSA Book,Books,Good,5.1,1051,377,35.87
+Engineering Textbook,Books,Like New,2.7,959,543,56.62
+Novel,Books,Good,0.3,446,292,65.47
+Python Programming Book,Books,Fair,1.6,850,378,44.47
+Scientific Calculator,Calculators,Fair,5.5,2769,887,32.03
+Casio Calculator,Calculators,Good,5.6,2991,1257,42.03
+Scientific Calculator,Calculators,Good,4.2,2127,1051,49.41
+Scientific Calculator,Calculators,Fair,7.2,2856,697,24.4
+Scientific Calculator,Calculators,Poor,5.9,2999,524,17.47
+Scientific Calculator,Calculators,Like New,5.2,2243,1206,53.77
+Casio Calculator,Calculators,Good,4.7,2296,1031,44.9
+Scientific Calculator,Calculators,Good,2.4,1756,924,52.62
+Scientific Calculator,Calculators,Good,0.3,1615,1140,70.59
+Casio Calculator,Calculators,Fair,6.0,1439,415,28.84
+Casio Calculator,Calculators,Fair,4.2,1845,605,32.79
+Casio Calculator,Calculators,Good,7.8,2599,851,32.74
+Casio Calculator,Calculators,Fair,2.9,1759,724,41.16
+Casio Calculator,Calculators,Good,5.8,1346,550,40.86
+Casio Calculator,Calculators,Poor,1.6,1869,543,29.05
+Scientific Calculator,Calculators,Poor,6.0,1101,208,18.89
+Scientific Calculator,Calculators,Like New,7.8,1780,659,37.02
+Scientific Calculator,Calculators,Like New,2.7,2616,1669,63.8
+Casio Calculator,Calculators,Good,5.6,1425,580,40.7
+Casio Calculator,Calculators,Good,3.0,2209,1113,50.38
+Casio Calculator,Calculators,Fair,5.6,2300,661,28.74
+Casio Calculator,Calculators,Fair,6.5,1324,335,25.3
+Scientific Calculator,Calculators,Fair,4.1,1199,384,32.03
+Scientific Calculator,Calculators,Good,2.8,1633,855,52.36
+Scientific Calculator,Calculators,Good,0.5,1374,985,71.69
+Casio Calculator,Calculators,Like New,4.8,2515,1225,48.71
+Scientific Calculator,Calculators,Like New,3.0,2395,1440,60.13
+Scientific Calculator,Calculators,Fair,3.8,1791,640,35.73
+Scientific Calculator,Calculators,Like New,5.7,1068,552,51.69
+Casio Calculator,Calculators,Fair,2.7,1630,640,39.26
+Casio Calculator,Calculators,Like New,0.8,916,671,73.25
+Scientific Calculator,Calculators,Good,5.6,1881,802,42.64
+Scientific Calculator,Calculators,Good,2.2,1359,725,53.35
+Scientific Calculator,Calculators,Poor,2.4,1503,382,25.42
+Casio Calculator,Calculators,Like New,5.9,953,439,46.07
+Scientific Calculator,Calculators,Good,1.1,2043,1188,58.15
+Scientific Calculator,Calculators,Poor,2.6,1252,308,24.6
+Casio Calculator,Calculators,Fair,6.2,2435,646,26.53
+Casio Calculator,Calculators,Like New,5.3,2581,1319,51.1
+Casio Calculator,Calculators,Like New,2.2,2431,1753,72.11
+Mountain Bicycle,Cycles,Fair,5.5,13527,3718,27.49
+Mountain Bicycle,Cycles,Fair,7.0,5851,1329,22.71
+Gear Bicycle,Cycles,Like New,4.7,10052,4897,48.72
+Mountain Bicycle,Cycles,Fair,5.1,8913,2395,26.87
+Mountain Bicycle,Cycles,Like New,0.7,13945,11217,80.44
+Mountain Bicycle,Cycles,Good,5.3,14817,5351,36.11
+City Bicycle,Cycles,Like New,2.4,12668,7877,62.18
+City Bicycle,Cycles,Fair,7.0,12164,2635,21.66
+Gear Bicycle,Cycles,Good,3.5,7786,3862,49.6
+Gear Bicycle,Cycles,Good,2.2,11806,6784,57.46
+Mountain Bicycle,Cycles,Fair,2.1,7914,2995,37.84
+Mountain Bicycle,Cycles,Good,4.4,5728,2297,40.1
+City Bicycle,Cycles,Like New,1.0,12400,9867,79.57
+Mountain Bicycle,Cycles,Poor,2.7,9946,2299,23.11
+Mountain Bicycle,Cycles,Fair,0.9,10588,5142,48.56
+City Bicycle,Cycles,Like New,6.3,12860,5128,39.88
+City Bicycle,Cycles,Like New,8.0,12330,4262,34.57
+City Bicycle,Cycles,Poor,5.7,12241,2083,17.02
+Mountain Bicycle,Cycles,Like New,1.0,6191,4348,70.23
+Gear Bicycle,Cycles,Like New,7.2,11172,3737,33.45
+City Bicycle,Cycles,Fair,4.7,6365,1977,31.06
+City Bicycle,Cycles,Good,7.3,8141,2452,30.12
+City Bicycle,Cycles,Good,6.3,9186,2898,31.55
+City Bicycle,Cycles,Good,1.1,9748,5889,60.41
+Gear Bicycle,Cycles,Like New,0.6,14086,11407,80.98
+Mountain Bicycle,Cycles,Good,5.5,5504,1951,35.45
+Mountain Bicycle,Cycles,Good,0.8,5133,3422,66.67
+Mountain Bicycle,Cycles,Like New,7.8,9175,3072,33.48
+City Bicycle,Cycles,Good,7.4,11190,3290,29.4
+Gear Bicycle,Cycles,Poor,2.5,13053,3037,23.27
+City Bicycle,Cycles,Good,0.6,10063,6444,64.04
+Mountain Bicycle,Cycles,Like New,2.4,8719,5426,62.23
+Gear Bicycle,Cycles,Good,2.3,9835,5630,57.24
+Gear Bicycle,Cycles,Good,0.5,11132,7707,69.23
+Mountain Bicycle,Cycles,Like New,1.2,10713,7780,72.62
+Mountain Bicycle,Cycles,Good,5.0,7871,3206,40.73
+City Bicycle,Cycles,Like New,0.6,7193,6133,85.26
+Mountain Bicycle,Cycles,Fair,3.1,8925,3368,37.74
+Mountain Bicycle,Cycles,Good,6.7,12266,3618,29.5
+Mountain Bicycle,Cycles,Fair,0.6,7000,3406,48.66
+Keyboard,Electronics,Good,8.0,7640,1313,17.19
+Headphones,Electronics,Good,6.8,7745,1519,19.61
+Keyboard,Electronics,Fair,7.6,6065,852,14.05
+Computer Monitor,Electronics,Good,5.0,7739,2034,26.28
+Headphones,Electronics,Fair,4.3,4863,1225,25.19
+Computer Monitor,Electronics,Fair,4.6,10540,2429,23.05
+Mouse,Electronics,Fair,0.4,7496,3708,49.47
+Mouse,Electronics,Like New,1.9,7381,4350,58.94
+Headphones,Electronics,Good,5.2,11174,3266,29.23
+Computer Monitor,Electronics,Good,4.5,10050,3078,30.63
+Mouse,Electronics,Fair,4.3,5392,1220,22.63
+Computer Monitor,Electronics,Fair,6.8,6471,983,15.19
+Headphones,Electronics,Good,5.0,6769,1968,29.07
+Computer Monitor,Electronics,Good,2.9,8330,3254,39.06
+Mouse,Electronics,Fair,3.3,9591,2613,27.24
+Computer Monitor,Electronics,Fair,3.4,1166,338,28.99
+Headphones,Electronics,Good,4.9,8456,2320,27.44
+Computer Monitor,Electronics,Like New,2.9,7481,3544,47.37
+Keyboard,Electronics,Poor,3.0,10660,1989,18.66
+Keyboard,Electronics,Like New,2.7,6690,3569,53.35
+Mouse,Electronics,Like New,4.2,4643,1723,37.11
+Headphones,Electronics,Like New,7.0,1776,462,26.01
+Mouse,Electronics,Good,3.1,8650,3483,40.27
+Headphones,Electronics,Like New,6.0,5626,1673,29.74
+Mouse,Electronics,Good,4.2,8672,3018,34.8
+Headphones,Electronics,Good,4.4,8652,2847,32.91
+Computer Monitor,Electronics,Good,0.4,6729,4262,63.34
+Computer Monitor,Electronics,Good,2.0,6668,3350,50.24
+Mouse,Electronics,Good,5.3,6871,1864,27.13
+Headphones,Electronics,Good,4.6,7391,2126,28.76
+Keyboard,Electronics,Poor,2.8,2261,419,18.53
+Mouse,Electronics,Fair,7.9,10004,1156,11.56
+Keyboard,Electronics,Good,1.4,11255,6467,57.46
+Headphones,Electronics,Like New,2.4,11562,6730,58.21
+Mouse,Electronics,Good,4.3,11287,3934,34.85
+Headphones,Electronics,Poor,3.3,8695,1415,16.27
+Headphones,Electronics,Like New,2.2,6060,3588,59.21
+Mouse,Electronics,Good,4.7,6969,2250,32.29
+Computer Monitor,Electronics,Good,3.5,4708,1764,37.47
+Keyboard,Electronics,Good,5.0,2328,663,28.48
+Bookshelf,Furniture,Good,4.0,5244,2610,49.77
+Study Chair,Furniture,Good,4.5,3560,1790,50.28
+Study Table,Furniture,Like New,1.3,4324,3363,77.78
+Study Chair,Furniture,Good,3.4,3104,1743,56.15
+Study Chair,Furniture,Fair,1.2,6756,3041,45.01
+Bookshelf,Furniture,Fair,0.7,4465,2037,45.62
+Study Table,Furniture,Fair,1.3,7913,3886,49.11
+Bookshelf,Furniture,Fair,1.5,1577,730,46.29
+Study Table,Furniture,Good,7.0,3843,1525,39.68
+Study Chair,Furniture,Fair,7.2,7484,2274,30.38
+Bookshelf,Furniture,Good,4.7,4554,2148,47.17
+Study Chair,Furniture,Good,0.7,4610,2864,62.13
+Study Chair,Furniture,Fair,2.8,7067,2781,39.35
+Bookshelf,Furniture,Good,5.0,2754,1307,47.46
+Study Table,Furniture,Good,1.4,2450,1446,59.02
+Study Chair,Furniture,Good,5.8,3365,1444,42.91
+Study Chair,Furniture,Good,4.4,7496,3470,46.29
+Bookshelf,Furniture,Like New,6.4,7690,3860,50.2
+Study Table,Furniture,Fair,5.8,3455,1137,32.91
+Bookshelf,Furniture,Fair,4.9,4825,1806,37.43
+Study Chair,Furniture,Good,2.0,1845,1179,63.9
+Study Chair,Furniture,Good,4.8,2484,1138,45.81
+Bookshelf,Furniture,Good,7.5,6943,2791,40.2
+Study Table,Furniture,Like New,5.7,2103,1110,52.78
+Study Table,Furniture,Fair,3.5,4867,2017,41.44
+Bookshelf,Furniture,Like New,3.7,4976,2978,59.85
+Study Chair,Furniture,Good,6.7,5521,2268,41.08
+Bookshelf,Furniture,Like New,3.3,1701,1164,68.43
+Study Table,Furniture,Like New,4.9,7887,4557,57.78
+Bookshelf,Furniture,Good,7.4,1974,793,40.17
+Study Table,Furniture,Like New,4.8,6358,3470,54.58
+Study Table,Furniture,Good,4.1,7475,3656,48.91
+Study Table,Furniture,Fair,4.7,3703,1261,34.05
+Study Table,Furniture,Poor,1.6,2188,622,28.43
+Study Chair,Furniture,Poor,0.9,5922,1790,30.23
+Study Table,Furniture,Good,3.3,2451,1402,57.2
+Study Chair,Furniture,Like New,1.7,1785,1396,78.21
+Bookshelf,Furniture,Fair,0.7,4557,2249,49.35
+Study Table,Furniture,Good,3.3,6426,3235,50.34
+Study Table,Furniture,Fair,0.8,6373,2994,46.98

@@ -1,0 +1,80 @@
+category,condition,age_group,average_sold_price,median_sold_price,average_retention,median_retention,item_count
+Books,Fair,Under 1 year,450.0,450.0,47.82,47.82,1
+Books,Fair,1-2 years,378.0,378.0,44.47,44.47,1
+Books,Fair,2-3 years,223.0,223.0,38.51,38.51,1
+Books,Fair,3-5 years,206.0,206.0,26.28,26.28,1
+Books,Fair,5+ years,210.5,210.5,20.64,20.64,2
+Books,Good,Under 1 year,292.0,292.0,65.47,65.47,1
+Books,Good,1-2 years,484.75,473.5,56.6925,55.675,4
+Books,Good,2-3 years,639.6666666666666,660.0,49.57,48.39,3
+Books,Good,3-5 years,394.25,331.5,39.47,38.67,4
+Books,Good,5+ years,315.3333333333333,326.5,27.361666666666665,25.03,6
+Books,Like New,Under 1 year,821.5,821.5,82.495,82.495,2
+Books,Like New,1-2 years,382.0,382.0,66.32,66.32,1
+Books,Like New,2-3 years,543.0,543.0,56.62,56.62,1
+Books,Like New,3-5 years,284.3333333333333,191.0,45.51,47.7,3
+Books,Like New,5+ years,487.0,492.0,39.26,39.66,3
+Books,Poor,Under 1 year,264.5,264.5,27.299999999999997,27.299999999999997,2
+Books,Poor,2-3 years,334.0,334.0,22.99,22.99,1
+Books,Poor,3-5 years,199.0,199.0,15.11,15.11,1
+Books,Poor,5+ years,108.0,108.0,13.445,13.445,2
+Calculators,Fair,2-3 years,682.0,682.0,40.209999999999994,40.209999999999994,2
+Calculators,Fair,3-5 years,543.0,605.0,33.516666666666666,32.79,3
+Calculators,Fair,5+ years,606.8333333333334,653.5,27.64,27.634999999999998,6
+Calculators,Good,Under 1 year,1062.5,1062.5,71.14,71.14,2
+Calculators,Good,1-2 years,1188.0,1188.0,58.15,58.15,1
+Calculators,Good,2-3 years,834.6666666666666,855.0,52.776666666666664,52.62,3
+Calculators,Good,3-5 years,1065.0,1051.0,48.23,49.41,3
+Calculators,Good,5+ years,808.0,802.0,39.794,40.86,5
+Calculators,Like New,Under 1 year,671.0,671.0,73.25,73.25,1
+Calculators,Like New,2-3 years,1711.0,1711.0,67.955,67.955,2
+Calculators,Like New,3-5 years,1332.5,1332.5,54.42,54.42,2
+Calculators,Like New,5+ years,835.0,659.0,47.93,51.1,5
+Calculators,Poor,1-2 years,543.0,543.0,29.05,29.05,1
+Calculators,Poor,2-3 years,345.0,345.0,25.01,25.01,2
+Calculators,Poor,5+ years,366.0,366.0,18.18,18.18,2
+Cycles,Fair,Under 1 year,4274.0,4274.0,48.61,48.61,2
+Cycles,Fair,2-3 years,2995.0,2995.0,37.84,37.84,1
+Cycles,Fair,3-5 years,2672.5,2672.5,34.4,34.4,2
+Cycles,Fair,5+ years,2519.25,2515.0,24.6825,24.79,4
+Cycles,Good,Under 1 year,5857.666666666667,6444.0,66.64666666666666,66.67,3
+Cycles,Good,1-2 years,5889.0,5889.0,60.41,60.41,1
+Cycles,Good,2-3 years,6207.0,6207.0,57.35,57.35,2
+Cycles,Good,3-5 years,3079.5,3079.5,44.85,44.85,2
+Cycles,Good,5+ years,3252.285714285714,3206.0,33.26571428571429,31.55,7
+Cycles,Like New,Under 1 year,9585.666666666666,11217.0,82.22666666666667,80.98,3
+Cycles,Like New,1-2 years,7331.666666666667,7780.0,74.14,72.62,3
+Cycles,Like New,2-3 years,6651.5,6651.5,62.205,62.205,2
+Cycles,Like New,3-5 years,4897.0,4897.0,48.72,48.72,1
+Cycles,Like New,5+ years,4049.75,3999.5,35.345,34.025,4
+Cycles,Poor,2-3 years,2668.0,2668.0,23.189999999999998,23.189999999999998,2
+Cycles,Poor,5+ years,2083.0,2083.0,17.02,17.02,1
+Electronics,Fair,Under 1 year,3708.0,3708.0,49.47,49.47,1
+Electronics,Fair,3-5 years,1565.0,1225.0,25.419999999999998,25.19,5
+Electronics,Fair,5+ years,997.0,983.0,13.6,14.05,3
+Electronics,Good,Under 1 year,4262.0,4262.0,63.34,63.34,1
+Electronics,Good,1-2 years,6467.0,6467.0,57.46,57.46,1
+Electronics,Good,2-3 years,3302.0,3302.0,44.650000000000006,44.650000000000006,2
+Electronics,Good,3-5 years,2757.777777777778,2847.0,33.26888888888889,32.91,9
+Electronics,Good,5+ years,1803.857142857143,1864.0,25.284285714285716,27.13,7
+Electronics,Like New,1-2 years,4350.0,4350.0,58.94,58.94,1
+Electronics,Like New,2-3 years,4357.75,3578.5,54.535,55.78,4
+Electronics,Like New,3-5 years,1723.0,1723.0,37.11,37.11,1
+Electronics,Like New,5+ years,1067.5,1067.5,27.875,27.875,2
+Electronics,Poor,2-3 years,419.0,419.0,18.53,18.53,1
+Electronics,Poor,3-5 years,1702.0,1702.0,17.465,17.465,2
+Furniture,Fair,Under 1 year,2426.6666666666665,2249.0,47.31666666666666,46.98,3
+Furniture,Fair,1-2 years,2552.3333333333335,3041.0,46.803333333333335,46.29,3
+Furniture,Fair,2-3 years,2781.0,2781.0,39.35,39.35,1
+Furniture,Fair,3-5 years,1694.6666666666667,1806.0,37.63999999999999,37.43,3
+Furniture,Fair,5+ years,1705.5,1705.5,31.644999999999996,31.644999999999996,2
+Furniture,Good,Under 1 year,2864.0,2864.0,62.13,62.13,1
+Furniture,Good,1-2 years,1446.0,1446.0,59.02,59.02,1
+Furniture,Good,2-3 years,1179.0,1179.0,63.9,63.9,1
+Furniture,Good,3-5 years,2354.6666666666665,2148.0,50.21333333333334,49.77,9
+Furniture,Good,5+ years,1688.0,1484.5,41.916666666666664,40.64,6
+Furniture,Like New,1-2 years,2379.5,2379.5,77.995,77.995,2
+Furniture,Like New,3-5 years,3042.25,3224.0,60.16,58.815,4
+Furniture,Like New,5+ years,2485.0,2485.0,51.49,51.49,2
+Furniture,Poor,Under 1 year,1790.0,1790.0,30.23,30.23,1
+Furniture,Poor,1-2 years,622.0,622.0,28.43,28.43,1
