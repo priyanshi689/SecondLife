@@ -1,0 +1,126 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Poppins", "Inter", ui-sans-serif, sans-serif;
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-emerald: var(--emerald);
+  --color-forest: var(--forest);
+  --color-deep: var(--deep);
+  --color-deep-foreground: var(--deep-foreground);
+  --color-sand: var(--sand);
+  --color-map: var(--map);
+  --color-gold: var(--gold);
+  --color-gold-foreground: var(--gold-foreground);
+  --color-navy: var(--navy);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+:root {
+  --radius: 0.875rem;
+  --background: oklch(0.98 0.006 130);
+  --foreground: oklch(0.27 0.04 165);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.27 0.04 165);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.27 0.04 165);
+  --primary: oklch(0.47 0.1 155);
+  --primary-foreground: oklch(0.98 0.006 130);
+  --secondary: oklch(0.96 0.012 140);
+  --secondary-foreground: oklch(0.38 0.07 160);
+  --muted: oklch(0.96 0.012 140);
+  --muted-foreground: oklch(0.5 0.03 160);
+  --accent: oklch(0.93 0.025 85);
+  --accent-foreground: oklch(0.3 0.07 260);
+  --destructive: oklch(0.58 0.2 27);
+  --destructive-foreground: oklch(0.98 0 0);
+  --border: oklch(0.91 0.015 140);
+  --input: oklch(0.89 0.018 140);
+  --ring: oklch(0.64 0.14 156);
+  --emerald: oklch(0.64 0.14 156);
+  --forest: oklch(0.38 0.07 160);
+  --deep: oklch(0.29 0.05 162);
+  --deep-foreground: oklch(0.95 0.02 130);
+  --sand: oklch(0.9 0.035 82);
+  --map: oklch(0.93 0.025 85);
+  --gold: oklch(0.76 0.12 80);
+  --gold-foreground: oklch(0.3 0.06 70);
+  --navy: oklch(0.3 0.07 260);
+  --shadow-card: 0 1px 2px oklch(0.29 0.05 162 / 6%), 0 8px 24px -12px oklch(0.29 0.05 162 / 18%);
+  --shadow-lift: 0 2px 4px oklch(0.29 0.05 162 / 8%), 0 20px 40px -16px oklch(0.29 0.05 162 / 30%);
+  --sidebar: oklch(0.29 0.05 162);
+  --sidebar-foreground: oklch(0.9 0.02 130);
+  --sidebar-primary: oklch(0.64 0.14 156);
+  --sidebar-primary-foreground: oklch(0.98 0 0);
+  --sidebar-accent: oklch(0.34 0.055 162);
+  --sidebar-accent-foreground: oklch(0.98 0 0);
+  --sidebar-border: oklch(0.36 0.05 162);
+  --sidebar-ring: oklch(0.64 0.14 156);
+}
+
+@layer base {
+  * { border-color: var(--color-border); }
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+  }
+  h1, h2, h3, h4 { font-family: var(--font-display); letter-spacing: -0.02em; }
+}
+
+@utility shadow-card { box-shadow: var(--shadow-card); }
+@utility shadow-lift { box-shadow: var(--shadow-lift); }
+
+/* Subtle treasure-map texture: contour rings + grid */
+@utility map-texture {
+  background-color: var(--map);
+  background-image:
+    radial-gradient(circle at 85% 20%, transparent 0 38px, oklch(0.76 0.12 80 / 18%) 39px 40px, transparent 41px 70px, oklch(0.76 0.12 80 / 14%) 71px 72px, transparent 73px 104px, oklch(0.76 0.12 80 / 10%) 105px 106px, transparent 107px),
+    radial-gradient(circle at 12% 90%, transparent 0 50px, oklch(0.47 0.1 155 / 10%) 51px 52px, transparent 53px 90px, oklch(0.47 0.1 155 / 8%) 91px 92px, transparent 93px),
+    linear-gradient(oklch(0.3 0.07 260 / 5%) 1px, transparent 1px),
+    linear-gradient(90deg, oklch(0.3 0.07 260 / 5%) 1px, transparent 1px);
+  background-size: 100% 100%, 100% 100%, 32px 32px, 32px 32px;
+}
+
+/* Dotted exploration path */
+@utility trail {
+  background-image: radial-gradient(circle, var(--gold) 1.5px, transparent 2px);
+  background-size: 10px 4px;
+  background-repeat: repeat-x;
+  background-position: left center;
+}
